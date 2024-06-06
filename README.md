@@ -1,4 +1,3 @@
-# RoomMapper_V3
-EV3 Room Mapping Robot - Version 3
+#Localization of items
 
-Requires a Lego Mindstorms EV3 robot running LeJOS 0.9.1 firmware to run
+Lego EV3 project that localizes sticky notes
